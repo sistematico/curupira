@@ -1,3 +1,6 @@
 {
-    "editor.stickyScroll.enabled": false
+    "editor.stickyScroll.enabled": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "editor.tabSize": 2
 }
